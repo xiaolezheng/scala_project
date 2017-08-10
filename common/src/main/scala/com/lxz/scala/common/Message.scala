@@ -1,4 +1,4 @@
-package com.lxz.scala
+package com.lxz.scala.common
 
 /**
   * Created by xiaolezheng on 17/8/9.

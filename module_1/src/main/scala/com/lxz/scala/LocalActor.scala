@@ -1,6 +1,7 @@
 package com.lxz.scala
 
 import akka.actor.{Actor, ActorLogging}
+import com.lxz.scala.common._
 
 /**
   * Created by xiaolezheng on 17/8/9.

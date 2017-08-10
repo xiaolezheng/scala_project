@@ -7,7 +7,7 @@ import java.util.concurrent.atomic.AtomicLong
 
 import akka.actor.{ActorSystem, Props}
 import com.typesafe.config.ConfigFactory
-
+import com.lxz.scala.common._
 import scala.util.Random
 
 /**
