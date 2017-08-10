@@ -12,7 +12,7 @@
         <module>common</module>
     </modules>
     <properties>
-        <scala.version>2.11.0</scala.version>
+        <scala.version>2.12.3</scala.version>
         <akka.version>2.5.3</akka.version>
     </properties>
 
@@ -47,23 +47,23 @@
         </dependency>
         <dependency>
             <groupId>com.typesafe.akka</groupId>
-            <artifactId>akka-actor_2.11</artifactId>
+            <artifactId>akka-actor_2.12</artifactId>
             <version>${akka.version}</version>
         </dependency>
         <dependency>
             <groupId>com.typesafe.akka</groupId>
-            <artifactId>akka-cluster_2.11</artifactId>
+            <artifactId>akka-cluster_2.12</artifactId>
             <version>${akka.version}</version>
         </dependency>
         <dependency>
             <groupId>com.typesafe.akka</groupId>
-            <artifactId>akka-remote_2.11</artifactId>
+            <artifactId>akka-remote_2.12</artifactId>
             <version>${akka.version}</version>
         </dependency>
 
         <dependency>
             <groupId>com.typesafe.akka</groupId>
-            <artifactId>akka-slf4j_2.11</artifactId>
+            <artifactId>akka-slf4j_2.12</artifactId>
             <version>${akka.version}</version>
         </dependency>
         <dependency>
